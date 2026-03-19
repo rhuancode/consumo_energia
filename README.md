@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)
 
-Feito em Python <img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+Feito em Python <img width="22" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
 para ajudar usuários a estimar quanto um aparelho gasta de energia ⚡ elétrica por mês, com base em dados simples de uso.
 
 O programa solicita o **nome do aparelho** 🔌, **potência do aparelho** 🔋 e **tempo médio de uso** ⏳, 
